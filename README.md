@@ -1,2 +1,2 @@
 # hospital-managment-system
-A gui app for hospital managment system linken with sql server
+A gui app for hospital managment system linked with sql server
